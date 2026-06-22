@@ -24,7 +24,7 @@ app.get('/', (req, res) => {
     <!DOCTYPE html>
     <html>
     <head>
-      <title>Simple Feature Toggle</title>
+      <title>Simple node App</title>
       <style>
         body { font-family: Arial; background: #f0f0f0; margin: 0; padding: 20px; }
         .container { max-width: 600px; margin: 0 auto; background: white; padding: 30px; border-radius: 8px; }
